@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 07 Nov 2020 16:31:11 at https://demo.hasthemes.com/mitech-preview/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -WC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.hasthemes.com/mitech-preview/index.html -O1 "d:\My Web Sites\chc2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:34:11	Error: 	"Forbidden" (403) at link https://demo.hasthemes.com/mitech-preview/assets/css/img/vimeo-play.png (from https://demo.hasthemes.com/mitech-preview/assets/css/plugins/plugins.min.css)
+16:34:11	Error: 	"Forbidden" (403) at link https://demo.hasthemes.com/mitech-preview/assets/css/img/video-play.png (from https://demo.hasthemes.com/mitech-preview/assets/css/plugins/plugins.min.css)
+16:34:11	Error: 	"Forbidden" (403) at link https://demo.hasthemes.com/mitech-preview/assets/css/img/youtube-play.png (from https://demo.hasthemes.com/mitech-preview/assets/css/plugins/plugins.min.css)
+16:34:11	Error: 	"Forbidden" (403) at link https://demo.hasthemes.com/mitech-preview/assets/img/loading.gif (from https://demo.hasthemes.com/mitech-preview/assets/css/plugins/plugins.min.css)
+16:34:11	Error: 	"Forbidden" (403) at link https://demo.hasthemes.com/mitech-preview/assets/images/icons/metro-quote.png (from https://demo.hasthemes.com/mitech-preview/assets/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 13 seconds : 401 links scanned, 395 files written (26686555 bytes overall), 395 files updated [15604458 bytes received at 80852 bytes/sec], 14610298 bytes transferred using HTTP compression in 105 files, ratio 22%, 57.2 requests per connection
+(5 errors, 0 warnings, 0 messages)
