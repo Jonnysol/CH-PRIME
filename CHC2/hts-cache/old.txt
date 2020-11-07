@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-16:30:09	217/217	---MCZ	403	error ('Forbidden')	application/xml	date:Sat,%2007%20Nov%202020%2021:30:10%20GMT	https://demo.hasthemes.com/robots.txt		(from )
-16:30:09	243/243	---MC-	403	error ('Forbidden')	application/xml	date:Sat,%2007%20Nov%202020%2021:30:10%20GMT	https://demo.hasthemes.com/mitech-preview/	d:/My%20Web%20Sites/chc2/demo.hasthemes.com/mitech-preview/index.html	(from )
