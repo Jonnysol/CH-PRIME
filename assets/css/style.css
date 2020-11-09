@@ -12796,10 +12796,10 @@ blockquote {
 =         37. Processing Hero Css             =
 =============================================*/
 .appointment-hero-bg {
-  
+
   background-repeat: no-repeat;
 
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/hero/home-appointment-hero-bg-image.jpg");
+  background-image: url("../images/hero/home-appointment-hero-bg-image.jpg");
   background-size: cover;
 
   background-position: 50% 50%;
