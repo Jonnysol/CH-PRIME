@@ -5362,7 +5362,7 @@ input[type="checkbox"] {
 =           10. Call To Action Css             =
 =============================================*/
 
-@media only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 767px) {
+@media  only screen and (max-width: 767px) {
   .cta-bg-image_one {
     background-color: #454545;
     background-image: url(../images/hero/Herosc.png);
@@ -5379,7 +5379,7 @@ input[type="checkbox"] {
   background-attachment: fixed;
 }
 
-@media only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 767px) {
+@media only screen and (max-width: 767px) {
 
   .cta-bg-image_two {
     background-color: #f6f2ed;
