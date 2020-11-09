@@ -2549,7 +2549,7 @@ input[type="checkbox"] {
 }
 
 .header__logo > a img {
-  width: 160px;
+  width: 80px;
 }
 
 .header__logo .dark-logo {
@@ -5360,9 +5360,11 @@ input[type="checkbox"] {
 
 .cta-bg-image_two {
   background-color: #f6f2ed;
-  background-image: url(../images/patterns/mitech-home-appointment-call-to-action-bg-image.png);
+  background-image: url(../images/hero/Herosc.png);
   background-repeat: no-repeat;
-  background-position: top right;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 767px) {
