@@ -96,6 +96,11 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.41;
 }
 
+.white-txt {
+  color: #ffffff;
+
+}
+
 h1 {
   font-size: 56px;
 }
@@ -287,6 +292,10 @@ ul {
 
 .text-color-secondary {
   color: #d2a98e;
+}
+
+.text-color-accent {
+    color: #d8ab08;
 }
 
 .text-black {
@@ -4900,7 +4909,7 @@ input[type="checkbox"] {
 
 .btn--secondary {
   background-image: none;
-  background-color: #d2a98e;
+  background-color: #d8ab08;
 }
 
 .btn--secondary:hover {
@@ -5360,7 +5369,7 @@ input[type="checkbox"] {
 
 .cta-bg-image_two {
   background-color: #f6f2ed;
-  background-image: url(../images/hero/Herosc.png);
+  background-image: linear-gradient(#00428c78, #000000), url(../images/hero/Herosc.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
