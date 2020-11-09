@@ -307,7 +307,9 @@ ul {
 }
 
 .bg-gray {
-  background: #F8F8F8;
+  background: linear-gradient(#0000005e, #000000), url(../images/hero/go.jpg);
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .bg-gray-2 {
@@ -9363,7 +9365,7 @@ ol {
   letter-spacing: 1px;
   border: 1px solid #ededed !important;
   border: #ededed;
-  background: #fff;
+  background: #fff0;
   color: #696969;
   padding: 21px 20px 19px;
   min-width: 200px;
@@ -9371,8 +9373,9 @@ ol {
 }
 
 .ht-tab-menu li a.active {
-  color: #086AD8;
-  border-color: #086AD8 !important;
+      color: #ffffff;
+      border-color: #ffffff !important;
+      background: #9dc5ef99;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
