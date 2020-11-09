@@ -1124,8 +1124,8 @@ input[type="checkbox"] {
 }
 
 .section-space--ptb_120 {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 290px;
+  padding-bottom: 290px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -5352,9 +5352,10 @@ input[type="checkbox"] {
 =============================================*/
 .cta-bg-image_one {
   background-color: #454545;
-  background-image: url(../images/patterns/mitech-call-to-action-image-global.png);
+  background-image: url(../images/hero/Herosc.png);
   background-repeat: no-repeat;
   background-position: top 35% right -68px;
+  background-attachment: fixed;
 }
 
 .cta-bg-image_two {
@@ -12771,6 +12772,7 @@ blockquote {
 .appointment-hero-bg {
   background-color: transparent;
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/hero/home-appointment-hero-bg-image.jpg");
   background-size: cover;
 
