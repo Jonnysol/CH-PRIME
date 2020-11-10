@@ -97,9 +97,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .white-txt {
-  color: #ffffff;
-
+  color: #d2d2d2;
 }
+
+.semi-white-txt {
+  color: #c7c7c7;
+}
+
+.yellow-txt {
+  color: #e2d7b4;
+}
+
 
 h1 {
   font-size: 56px;
@@ -5108,6 +5116,10 @@ input[type="checkbox"] {
   color: #086AD8;
 }
 
+.btn-text {
+  color: #3f9aff;
+}
+
 .btn-text:hover {
   color: #d2a98e;
 }
@@ -7035,12 +7047,12 @@ input[type="checkbox"] {
 }
 
 .ht-large-box-images.style-04 .content .text {
-  color: #696969;
+  color: #dedede;
 }
 
 .ht-large-box-images.style-04 .content .box-images-arrow {
   margin-top: 20px;
-  color: #086AD8;
+  color: #67afff;
 }
 
 .ht-large-box-images.style-04:hover .box-image {
@@ -9390,7 +9402,7 @@ ol {
   border: 1px solid #ededed !important;
   border: #ededed;
   background: #fff0;
-  color: #696969;
+  color: #bbbbbb;
   padding: 21px 20px 19px;
   min-width: 200px;
   border-radius: 5px !important;
@@ -9399,7 +9411,7 @@ ol {
 .ht-tab-menu li a.active {
       color: #ffffff;
       border-color: #ffffff !important;
-      background: #9dc5ef99;
+      background: #aed0e436
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
