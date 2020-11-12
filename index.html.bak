@@ -75,16 +75,16 @@
                         <li class="has-children has-children--multilevel-submenu">
                           <a href="#"><span>Home</span></a>
                           <ul class="submenu">
-                            <li><a href="index-infotechno.html"><span>Infotechno</span></a></li>
-                            <li><a href="index-processing.html"><span>Processing</span></a></li>
-                            <li><a href="index-appointment.html"><span>Appointment</span></a></li>
-                            <li><a href="index-services.html"><span>Services</span></a></li>
-                            <li><a href="index-resolutions.html"><span>Resolutions</span></a></li>
-                            <li><a href="index-cybersecurity.html"><span>Cybersecurity</span></a></li>
+                            <li><a href="index-infotechno.html"><span>1</span></a></li>
+                            <li><a href="index-processing.html"><span>2</span></a></li>
+                            <li><a href="index-appointment.html"><span>3</span></a></li>
+                            <li><a href="index-services.html"><span>4</span></a></li>
+                            <li><a href="index-resolutions.html"><span>5</span></a></li>
+                            <li><a href="index-cybersecurity.html"><span>5</span></a></li>
                           </ul>
                         </li>
                         <li class="has-children has-children--multilevel-submenu">
-                          <a href="#"><span>Company</span></a>
+                          <a href="#"><span>About</span></a>
                           <ul class="submenu">
                             <li class="has-children"> <a href="about-us-01.html"><span>About
                                   us</span></a>
@@ -102,8 +102,10 @@
                               </ul>
                             </li>
                             <li><a href="contact-us.html"><span>Contact us</span></a></li>
-                            <li><a href="leadership.html"><span>Leadership</span></a></li>
-                            <li><a href="why-choose-us.html"><span>Why choose us</span></a></li>
+                            <li><a href="why-choose-us.html"><span>Why choose us</span></a><a
+                                href="leadership.html"></a></li>
+                            <li><a href="why-choose-us.html"><span>About Chris<br>
+                                </span></a></li>
                             <li><a href="our-history.html"><span>Our history</span></a></li>
                             <li><a href="faqs.html"><span>FAQs</span></a></li>
                             <li><a href="careers.html"><span>Careers</span></a></li>
@@ -111,19 +113,21 @@
                           </ul>
                         </li>
                         <li class="has-children has-children--multilevel-submenu">
-                          <a href="#"><span>IT solutions</span></a>
+                          <a href="#"><span>Get Started</span></a>
                           <ul class="submenu">
-                            <li><a href="it-services.html"><span>IT Services</span></a></li>
-                            <li><a href="managed-it-service.html"><span>Managed
-                                  IT Services</span></a></li>
-                            <li><a href="industries.html"><span>Industries</span></a></li>
-                            <li><a href="business-solution.html"><span>Business
-                                  solution</span></a></li>
-                            <li><a href="it-services-details.html"><span>IT
-                                  Services Details</span></a></li>
+                            <li><a href="it-services.html"><span>Credit Score
+                                  Help<br>
+                                </span></a></li>
+                            <li><a href="managed-it-service.html"><span>Debt
+                                  Management<br>
+                                </span></a></li>
+                            <li><a href="it-services-details.html"><span>Financial
+                                  Services <br>
+                                </span></a></li>
                           </ul>
                         </li>
-                        <li class="has-children"> <a href="#"><span>Elements</span></a>
+                        <li class="has-children"> <a href="#"><span>Jon's
+                              Elements</span></a>
                           <!-- mega menu -->
                           <ul class="megamenu megamenu--mega">
                             <li>
@@ -195,7 +199,7 @@
                           </ul>
                         </li>
                         <li class="has-children has-children--multilevel-submenu">
-                          <a href="#"><span>Case Studies</span></a>
+                          <a href="#"><span>FAQ</span></a>
                           <!-- multilevel submenu -->
                           <ul class="submenu">
                             <li><a href="case-studies.html"><span>Case Studies
@@ -207,7 +211,7 @@
                           </ul>
                         </li>
                         <li class="has-children has-children--multilevel-submenu">
-                          <a href="blog-list-large-image.html"><span>Blog</span></a>
+                          <a href="blog-list-large-image.html"><span>Contact</span></a>
                           <!-- multilevel submenu -->
                           <ul class="submenu">
                             <li><a href="blog-list-large-image.html"><span>List
@@ -325,14 +329,83 @@
           </div>
         </div>
         <!--============ Appointment Hero End ============-->
+        <!--===========  Our Company History Start =============-->
+        <div class="our-company-history section-space--ptb_100">
+          <div class="container-fluid">
+            <div class="grid-wrapper">
+              <div class="line line-1"></div>
+              <div class="line line-2"></div>
+              <div class="line line-3"></div>
+              <div class="line line-4"></div>
+            </div>
+            <div class="row align-items-center">
+              <div class="col-lg-6">
+                <div class="faq-custom-col">
+                  <div class="section-title-wrap">
+                    <h6 class="section-sub-title mb-20">Our company</h6>
+                    <h3 class="heading">We’ve been Helping <br>
+                      People <span class="text-color-primary">Like You.</span>
+                      <br>
+                      Now its your turn.</h3>
+                    <p class="text mt-30">We know that enjoying the finest
+                      things in life is important to you and your family.
+                      Because of this, we will utilize our expertise to help you
+                      restore, rebuild and raise your credit score so that one
+                      day you will become creditworthy again.</p>
+                    <div class="inner-button-box section-space--mt_60"> <a href="#"
+                        class="ht-btn ht-btn-md">Find out more</a> </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="rv-video-section">
+                  <div class="ht-banner-01 "> <img class="img-fluid border-radus-5 animation_images one wow fadeInDown animated"
+                      src="assets/images/banners/home-processing-video-intro-slider-slide-01-image-02.png"
+                      alt="" style="visibility: visible; animation-name: animateUpDown;">
+                  </div>
+                  <div class="ht-banner-02"> <img class="img-fluid border-radus-5 animation_images two wow fadeInDown animated"
+                      src="assets/images/banners/home-processing-video-intro-slider-slide-01-image-03.jpg"
+                      alt="" style="visibility: visible; animation-name: animateUpDown;">
+                  </div>
+                  <div class="main-video-box video-popup"> <a href="https://www.youtube.com/watch?v=9No-FiEInLA"
+                      class="video-link  mt-30">
+                      <div class="single-popup-wrap"> <img class="img-fluid border-radus-5"
+                          src="assets/images/banners/home-processing-video-intro-slider-slide-01-image-01.jpg"
+                          alt="">
+                        <div class="ht-popup-video video-button">
+                          <div class="video-mark">
+                            <div class="wave-pulse wave-pulse-1"></div>
+                            <div class="wave-pulse wave-pulse-2"></div>
+                          </div>
+                          <div class="video-button__two">
+                            <div class="video-play"> <span class="video-play-icon"></span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </a> </div>
+                  <div class="ht-banner-03"> <img class="img-fluid border-radus-5 animation_images three wow fadeInDown animated"
+                      src="assets/images/banners/home-processing-video-intro-slider-slide-01-image-04.jpg"
+                      alt="" style="visibility: visible; animation-name: animateUpDown;">
+                  </div>
+                  <div class="ht-banner-04"> <img class="img-fluid border-radus-5 animation_images four wow fadeInDown animated"
+                      src="assets/images/banners/home-processing-video-intro-slider-slide-01-image-05.jpg"
+                      alt="" style="visibility: visible; animation-name: animateUpDown;">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--===========  Our Company History Start =============-->
         <!--===========  feature-icon-wrapper  Start =============-->
-        <div class="feature-icon-wrapper section-space--ptb_100">
+        <div class="feature-icon-wrapper section-space--jtb_100">
           <div class="container">
             <div class="row">
               <div class="col-lg-12">
                 <div class="section-title-wrap text-center section-space--mb_40">
                   <h6 class="section-sub-title mb-20">Chris can help you</h6>
-                  <h2 class="heading"> Get a Free Debt Analysis.<br>
+                  <h2 class="heading"> Get a Free Credit Analysis.<br>
                     <span class="text-color-primary">Only a click away.</span></h2>
                 </div>
               </div>
@@ -479,9 +552,9 @@
             <div class="row">
               <div class="col-lg-12">
                 <div class="section-title-wrapper text-center section-space--mb_60 wow move-up">
-                  <h6 class="section-sub-title mb-20">discover our company</h6>
+                  <h6 class="section-sub-title mb-20">discover&nbsp; C.Hall</h6>
                   <h3 class="white-txt section-title">We’ve saved people<span class="text-color-primary">
-                      $10,000+!</span> </h3>
+                      $50,000+!</span> </h3>
                 </div>
               </div>
             </div>
@@ -495,7 +568,7 @@
                         aria-selected="true">Our mission</a> </li>
                     <li class="tab__item nav-item"> <a class="nav-link" id="nav-tab2"
                         data-toggle="tab" href="#tab_list_07" role="tab" aria-selected="false">Our
-                        services</a> </li>
+                        Methods</a> </li>
                     <li class="tab__item nav-item "> <a class="nav-link" id="nav-tab3"
                         data-toggle="tab" href="#tab_list_08" role="tab" aria-selected="false">Credit
                         partners</a> </li>
@@ -768,9 +841,10 @@
                 <div class="section-title section-space--mb_60">
                   <h3 class="heading">Meet <span class="text-color-primary">Chris
                       Hall </span>&amp; Our Credit Experts</h3>
-                  <p class="text mt-30">Mitech specializes in technological and
-                    IT-related services such as product engineering, warranty
-                    management, building cloud, infrastructure, network, etc. </p>
+                  <p class="text mt-30">Chris Hall specializes in Financial and
+                    Credit services such as Credit &amp; Finacial engineering,
+                    Debt management, Research, Home buying , Credit networks ,
+                    etc. </p>
                   <div class="sider-title-button-box mt-30"> <a href="#" class="ht-btn ht-btn-md">About
                       Chris</a> <a href="#" class="btn-text font-weight--bold small-mt__20">View
                       all team </a> </div>
@@ -835,8 +909,10 @@
             <div class="row align-items-center">
               <div class="col-xl-8 col-lg-7">
                 <div class="cta-content md-text-center">
-                  <h3 class="white-txt heading">We run all kinds of IT services
-                    that vow your <span class="text-color-accent"> success</span></h3>
+                  <h3 class="white-txt heading">Helping you every step of the
+                    way Stronger <span class="text-color-accent"> success
+                      starts now<br>
+                    </span></h3>
                 </div>
               </div>
               <div class="col-xl-4 col-lg-5">
@@ -969,8 +1045,8 @@
               <div class="col-lg-12">
                 <!-- section-title-wrap Start -->
                 <div class="section-title-wrap text-center section-space--mb_40">
-                  <h6 class="section-sub-title mb-20">Case studies</h6>
-                  <h3 class="heading">Proud projects <span class="text-color-primary">
+                  <h6 class="section-sub-title mb-20">&nbsp;Chris' Case studies</h6>
+                  <h3 class="heading">Proud Plans <span class="text-color-primary">
                       make us excel</span></h3>
                 </div>
                 <!-- section-title-wrap Start --> </div>
@@ -1095,15 +1171,14 @@
                               <div class="author-info">
                                 <h6 class="name"><span style="color: #d2d2d2;">Egor
                                     Ferguson</span></h6>
-                                <span style="color: #d2d2d2;"> <span class="designation">Marketing</span></span>
-                              </div>
+                                <span style="color: #d2d2d2;"> <span class="designation">Credit
+                                    Recovery</span></span> </div>
                             </div>
                           </div>
                           <div class="testimonial-slider__text"><span style="color: #d2d2d2;">I
                               am overwhelmed with the excellent service we’ve
-                              received from your company. It has been a
-                              tremendous financial help for us to finally be
-                              debt free. <u style="color: #b1b4d8;">Google
+                              received. It has been a tremendous financial help
+                              for us to finally be debt free. <u style="color: #b1b4d8;">Google
                                 Reviews</u><br>
                             </span></div>
                         </div>
@@ -1119,15 +1194,17 @@
                                 <span class="fa fa-star"></span> <span class="fa fa-star"></span>
                               </div>
                               <div class="author-info">
-                                <h6 class="name text-white">Monica Blews</h6>
-                                <span class="designation white-txt">Web designer</span>
-                              </div>
+                                <h6 class="name text-white">Noah Wossen</h6>
+                                <span class="designation white-txt">Debt
+                                  Management</span> </div>
                             </div>
                           </div>
-                          <div class="testimonial-slider__text white-txt">I’ve
-                            been working with over 35 IT companies on more than
-                            200 projects of our company, but @Mitech is one of
-                            the most impressive to me.</div>
+                          <div class="testimonial-slider__text"><span style="color: #d2d2d2;">I
+                              am overwhelmed with the excellent service we’ve
+                              received. It has been a tremendous financial help
+                              for us to finally be debt free. <u style="color: #b1b4d8;">Google
+                                Reviews</u><br>
+                            </span></div>
                         </div>
                       </div>
                       <div class="swiper-slide">
@@ -1141,14 +1218,18 @@
                                 <span class="fa fa-star"></span> <span class="fa fa-star"></span>
                               </div>
                               <div class="author-info">
-                                <h6 class="name">Abbie Ferguson</h6>
-                                <span class="designation">WEB DESIGNER</span> </div>
+                                <h6 class="name"><span style="color: #d2d2d2;">Kenya
+                                    Brocklin</span></h6>
+                                <span style="color: #d2d2d2;"> <span class="designation">Credit
+                                    Recovery</span></span> </div>
                             </div>
                           </div>
-                          <div class="testimonial-slider__text">I’ve been
-                            working with over 35 IT companies on more than 200
-                            projects of our company, but @Mitech is one of the
-                            most impressive to me.</div>
+                          <div class="testimonial-slider__text"><span style="color: #d2d2d2;">I
+                              am overwhelmed with the excellent service we’ve
+                              received. It has been a tremendous financial help
+                              for us to finally be debt free. <u style="color: #b1b4d8;">Google
+                                Reviews</u><br>
+                            </span></div>
                         </div>
                       </div>
                       <div class="swiper-slide">
@@ -1162,14 +1243,18 @@
                                 <span class="fa fa-star"></span> <span class="fa fa-star"></span>
                               </div>
                               <div class="author-info">
-                                <h6 class="name">Abbie Ferguson</h6>
-                                <span class="designation">WEB DESIGNER</span> </div>
+                                <h6 class="name"><span style="color: #d2d2d2;">Tim
+                                    Abeba</span></h6>
+                                <span style="color: #d2d2d2;"> <span class="designation">Credit
+                                    Recovery</span></span> </div>
                             </div>
                           </div>
-                          <div class="testimonial-slider__text">I’ve been
-                            working with over 35 IT companies on more than 200
-                            projects of our company, but @Mitech is one of the
-                            most impressive to me.</div>
+                          <div class="testimonial-slider__text"><span style="color: #d2d2d2;">I
+                              am overwhelmed with the excellent service we’ve
+                              received. It has been a tremendous financial help
+                              for us to finally be debt free. <u style="color: #b1b4d8;">Google
+                                Reviews</u><br>
+                            </span></div>
                         </div>
                       </div>
                     </div>
@@ -1193,7 +1278,7 @@
               </div>
               <div class="col-md-3 col-sm-6 wow move-up">
                 <div class="fun-fact--two text-center">
-                  <div class="fun-fact__count counter">32</div>
+                  <div class="fun-fact__count counter">532</div>
                   <h6 class="fun-fact__text">Finished projects</h6>
                 </div>
               </div>
@@ -1221,7 +1306,7 @@
                 <div class="contact-title section-space--mb_50">
                   <h3 class="mb-20" style="text-align: center;">Need a hand?</h3>
                   <p class="sub-title" style="text-align: center;">Reach out to
-                    the world’s most reliable IT services.</p>
+                    the most reliable Credit Consultants .</p>
                   <p class="sub-title"><br>
                   </p>
                 </div>
@@ -1284,7 +1369,7 @@ placeholder="Please describe what you need."></textarea> </div>
                           </div>
                           <div class="main-content">
                             <h6 class="heading">Call for advice now!</h6>
-                            <div class="text">1900 68668</div>
+                            <div class="text">(555) 686-668</div>
                           </div>
                         </div>
                       </div>
@@ -1294,8 +1379,8 @@ placeholder="Please describe what you need."></textarea> </div>
                           <div class="icon"> <span class="fal fa-envelope"></span>
                           </div>
                           <div class="main-content">
-                            <h6 class="heading">Say hello</h6>
-                            <div class="text">hello@mitech.com</div>
+                            <h6 class="heading">Email Us!</h6>
+                            <div class="text">Chris@CHallCredit.com</div>
                           </div>
                         </div>
                       </div>
@@ -1307,13 +1392,14 @@ placeholder="Please describe what you need."></textarea> </div>
         </div>
         <!--============ Contact Us Area End =================--> </div>
       <!--====================  footer area ====================-->
-      <div class="footer-area-wrapper bg-gray">
+      <div class="footer-area-wrapper bg-footer">
         <div class="footer-area section-space--ptb_80">
           <div class="container">
             <div class="row footer-widget-wrapper white-txt">
               <div class="col-lg-4 col-md-6 col-sm-6 footer-widget">
-                <div class="footer-widget__logo mb-30"> <img src="assets/images/logo/dark-logo-160x48.png"
-                    class="img-fluid" alt=""> </div>
+                <div class="footer-widget__logo mb-30"> <a href="index.html"><img
+                      src="assets/images/logo/light-logo.png" class="img-fluid"
+                      alt="logo" width="160"></a> </div>
                 <ul class="footer-widget__list">
                   <li> Chicago, CA 941</li>
                   <li><a href="mailto:chris@CHallCredit.com" class="hover-style-link">contact@CHallCredit.com</a></li>
@@ -1397,17 +1483,6 @@ placeholder="Please describe what you need."></textarea> </div>
     <!-- Start Toolbar -->
     <div class="demo-option-container">
       <!-- Start Toolbar -->
-      <div class="aeroland__toolbar">
-        <div class="inner"> <a class="quick-option hint--bounce hint--left hint--black primary-color-hover-important"
-            href="#" aria-label="Quick Options"> <i class="fal fa-project-diagram"></i>
-          </a> <a class="hint--bounce hint--left hint--black primary-color-hover-important"
-            target="_blank" href="https://hasthemes.com/contact-us/" aria-label="Support Center">
-            <i class="fal fa-life-ring"></i> </a> <a class="hint--bounce hint--left hint--black primary-color-hover-important"
-            target="_blank" href="https://themeforest.net/item/mitech-it-solutions-html-template/24906742?ref=AslamHasib"
-            aria-label="Purchase Mitech"> <i class="fal fa-shopping-cart"></i>
-          </a> </div>
-      </div>
-      <!-- End Toolbar -->
       <!-- Start Quick Link -->
       <div class="demo-option-wrapper">
         <div class="demo-panel-header">
@@ -1618,7 +1693,7 @@ placeholder="Please describe what you need."></textarea> </div>
     <!--====================  End of search overlay  ====================-->
     <!--====================  End of search overlay  ====================-->
     <!-- JS
-    ============================================ -->
+            ============================================ -->
     <!-- Modernizer JS -->
     <script src="assets/js/vendor/modernizr-2.8.3.min.js"></script>
     <!-- jQuery JS -->

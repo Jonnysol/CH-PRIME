@@ -96,6 +96,22 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.41;
 }
 
+
+
+
+.img-fluid-2 {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.img-fluid-home {
+	max-width: 100%;
+  	position: relative;
+  	top: -110px;
+	Left: -140px;
+}
+
 .white-txt {
   color: #d2d2d2;
 }
@@ -138,6 +154,7 @@ h2 {
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   h2 {
     font-size: 36px;
+  }
   }
 }
 
@@ -303,7 +320,7 @@ ul {
 }
 
 .text-color-accent {
-    color: #d8ab08;
+    color: #d4a872;
 }
 
 .text-black {
@@ -319,6 +336,15 @@ ul {
   background-attachment: fixed;
   background-size: cover;
 }
+
+.bg-footer {
+  background: linear-gradient(#000000a8, #000000c4), url(../images/hero/footer.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+
 
 .bg-gray-2 {
   background: #F6FAFE;
@@ -1196,6 +1222,16 @@ input[type="checkbox"] {
 .section-space--ptb_100 {
   padding-top: 100px;
   padding-bottom: 100px;
+}
+
+.section-space--jtb_100 {
+  padding-top: 0px;
+  padding-bottom: 100px;
+}
+
+.section-space--jtj_100 {
+  padding-top: 100px;
+  padding-bottom: 0px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -4911,7 +4947,7 @@ input[type="checkbox"] {
 .btn:hover, .btn:active, .btn:focus {
   font-weight: 500;
   color: #ffffff;
-  background: #086AD8;
+  background: #2e91ff;
   -webkit-transform: translateY(-3px);
       -ms-transform: translateY(-3px);
           transform: translateY(-3px);
@@ -4919,8 +4955,12 @@ input[type="checkbox"] {
 
 .btn--secondary {
   background-image: none;
-  background-color: #d8ab08;
+  background-color: #b79162;
 }
+
+
+
+
 
 .btn--secondary:hover {
   background-image: none;
@@ -5099,11 +5139,20 @@ input[type="checkbox"] {
   border: none;
 }
 
-@media only screen and (max-width: 479px) {
+@media only screen and (max-width: 709px) {
+  .centerer{
+    margin: 0 auto;
+  }
+}
+
+
+@media only screen and (max-width: 709px) {
   .button-wrapper > a {
     margin-bottom: 15px;
   }
 }
+
+
 
 @media only screen and (max-width: 479px) {
   .button-wrapper > a:last-child {
